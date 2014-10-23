@@ -1,4 +1,4 @@
-hbl-game
+chinese-name-generator
 ========
 
-a basketball game
+based on a script somewhere...
